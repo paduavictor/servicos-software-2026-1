@@ -4,4 +4,4 @@ python-multipart
 requests
 transformers
 torch
-Pyllow
+Pillow
